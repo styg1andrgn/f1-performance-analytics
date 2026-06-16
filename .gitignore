@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 Data/
+*.zip
+git add .gitignore
+git commit -m "Remove dataset zip from version control"

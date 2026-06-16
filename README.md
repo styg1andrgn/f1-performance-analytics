@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # F1 Performance Benchmarking & Anomaly Detection Dashboard
 
 An end-to-end data analytics project that models expected Formula 1 race performance and flags results that significantly diverge from expectation — built using SQL Server, Python, and Power BI.
@@ -71,7 +70,3 @@ Python (pandas, scikit-learn), SQL Server / T-SQL, Power BI (DAX), Jupyter
 - Incorporate championship standings (`vw_DriverStandingsHistory`) as an additional "current form" feature.
 - Add a classification model predicting podium finishes as a second angle on the same data.
 - Extend feature set with qualifying gap-to-pole or circuit-archetype clustering.
-=======
-# f1-performance-analytics
-F1 race performance benchmarking and anomaly detection using SQL, Python, and Power BI
->>>>>>> a7b1ced2a65b08240a782ff39be649de03566009
